@@ -1,7 +1,0 @@
-[tweaks]
-	"Double Door Opening" = false
-
-	[tweaks.double_door_opening]
-		"Enable Doors" = false
-		"Enable Fence Gates" = false
-		"Ignore Anti Overlap" = false
