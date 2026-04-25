@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "0c89f812bf17569acca0ffecb8baf937a4df1c85c952770706dc129325cb9297"
-
-[[files]]
-file = "gitattributes"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-
-[[files]]
-file = "gitignore"
-hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d0c02a64342e1e9023264beb3012459ea76fc535a6d1df7d54fb0785cc2c1058"
 metafile = true
@@ -1281,7 +1269,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "08919de5d8de4b6b5af1c6e030815c8038bdc101dd2a1dc1367b07b3f21ef9e2"
 metafile = true
-
-[[files]]
-file = "packwizignore"
-hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
