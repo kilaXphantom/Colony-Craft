@@ -1,16 +1,13 @@
-filename = 'ApothicAttributes-1.21.1-2.9.1.jar'
-name = 'Apothic Attributes'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Apothic Attributes"
+filename = "ApothicAttributes-1.21.1-2.9.1.jar"
+side = "both"
 
 [download]
-hash = 'e7f669e1b45d75076200436f37c40a6dd3b6a6ff'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "e7f669e1b45d75076200436f37c40a6dd3b6a6ff"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 7445079
 project-id = 898963

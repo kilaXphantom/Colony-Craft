@@ -1,16 +1,13 @@
-filename = 'blockui-1.0.211-1.21.1-snapshot.jar'
-name = 'BlockUI'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
+name = "BlockUI"
+filename = "blockui-1.0.211-1.21.1-snapshot.jar"
+side = "both"
 
 [download]
-hash = '0ab4e0342b9f1e595d9a891f84747e4e5389c552'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "0ab4e0342b9f1e595d9a891f84747e4e5389c552"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 7790469
 project-id = 522992
