@@ -5,6 +5,54 @@ file = "README.md"
 hash = "0c89f812bf17569acca0ffecb8baf937a4df1c85c952770706dc129325cb9297"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "9c3ae81b9120ad8fa5aee4693897a614c7766e8016c21c39c8aa648625235474"
+
+[[files]]
+file = "config/adorablehamsterpets/announcements.json"
+hash = "2eebcfd8867e4f3b64a449cc96b6c6c17e9f81000b04cd37eaa59f027a870264"
+
+[[files]]
+file = "config/adorablehamsterpets/main.toml"
+hash = "491c06c0f51f9823712c6f3723eff764547c747aa5403b0de9f81063cda9399b"
+
+[[files]]
+file = "config/adorablehamsterpets/manifest.cache.json"
+hash = "b118fb1f1b308f1df138a2a798ea8b6cff0f1a149b4bf6174ed9c1bd4338cf6c"
+
+[[files]]
+file = "config/adorablehamsterpets/perks.cache.json"
+hash = "a5b4af70d2670e81923dff8a27910e3ff88d592dd55a1e778e7dc215a0f73d43"
+
+[[files]]
+file = "config/adorablehamsterpets/root.toml"
+hash = "5b99fddfbf7bc18bcbf36515d2348d02f925300df0da4f07301cd6ec45233d7e"
+
+[[files]]
+file = "config/adorablehamsterpets/worldgen.toml"
+hash = "85382dffec8fa8f22eefc946cdb0112bde936b31bfa70400fc3db7051bebdf88"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "8b869a5bba2f6a0d4958e6c7b936c3a336279c62bf454da2e97e3a1a0152eb1f"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "c66751ea4b11eda8297e6128e567236d8406c826c1eddcf1f5586c9c7a7782fb"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "be6e1753cf23b8d3c775f75b0286aa11d9e4148af5e146fac13cfbf4b095994c"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-client.toml"
+hash = "4c3acdce8424f0e3552785deb786a0ed5b837e3f3a445c606d107c5b72f9e10d"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-server.toml"
+hash = "f307605d2e9622fcb9290a02a28c37febfe87676faebe600899c339c1f9453e4"
+
+[[files]]
 file = "gitattributes"
 hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
 
