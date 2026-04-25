@@ -1,0 +1,16 @@
+filename = 'create-cardboarded-conveynience-1.21.1-neoforge-1.0.0.jar'
+name = 'Create: Cardboarded Conveynience'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '09e7c9f07032259a019d01102a9fbec95b9361c17748ea2468c67bf03d72714332fcecf2023350e51723e2461962a6a2a128875bfcaae1887d8c8bf13aecaa22'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dWU6xUnj/versions/DkktDPvc/create-cardboarded-conveynience-1.21.1-neoforge-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'dWU6xUnj'
+version = 'DkktDPvc'

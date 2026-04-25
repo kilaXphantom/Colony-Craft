@@ -1,0 +1,16 @@
+filename = 'create_vibrant_vaults-0.3.2.jar'
+name = 'Create: Vibrant Vaults'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3bd53097482e614dc4e5e635778af25020fa27c1c453d4928d1d8baa6767c93cb300810a5ac0c49af86813749a180e3f092ab2e65b07e7741c2b12aaebd47006'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hddN8ksR/versions/t17qYXjn/create_vibrant_vaults-0.3.2.jar'
+
+[update.modrinth]
+mod-id = 'hddN8ksR'
+version = 't17qYXjn'

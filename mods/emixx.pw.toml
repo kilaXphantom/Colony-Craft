@@ -1,0 +1,16 @@
+filename = 'emixx-neoforge-1.2.3.jar'
+name = 'EMI++'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '15eb94d5c2be00f06a96a45a68fc2fe3171f60c87c26d2ebf4ef359271f8b0ee3995f281af17e2b228ab543770ec2d8b486c98f0fe4b511c168a4c0c0e30db40'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AWMWYMwC/versions/sdRUQHCL/emixx-neoforge-1.2.3.jar'
+
+[update.modrinth]
+mod-id = 'AWMWYMwC'
+version = 'sdRUQHCL'

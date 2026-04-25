@@ -1,0 +1,16 @@
+filename = 'veil-neoforge-1.21.1-3.6.2.jar'
+name = 'Veil'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '53a8fab4910595eb8d79a86584b948dd7fb2ff3092465045d55ab17152854290f0d32fd5cceff4789e1800daa825673504ce793fd52586b7323d68194f95c325'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3KUWeVhG/versions/iIz78CBf/veil-neoforge-1.21.1-3.6.2.jar'
+
+[update.modrinth]
+mod-id = '3KUWeVhG'
+version = 'iIz78CBf'

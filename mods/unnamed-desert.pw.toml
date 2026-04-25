@@ -1,0 +1,29 @@
+filename = 'u_desert-2.0.3+mc1.21-1.21.11.jar'
+name = 'Unnamed Desert'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.10',
+    '1.21.11',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '026e2b85018c5216df62a858de4ece7672152e3d7c6261e1c5831c01504285a417f284cde966903a7b6592a5012e6c837d5be09b9075f9ef2df29bfe036fd21d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ThFWvdF1/versions/Gw6acQkk/u_desert-2.0.3%2Bmc1.21-1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'ThFWvdF1'
+version = 'Gw6acQkk'

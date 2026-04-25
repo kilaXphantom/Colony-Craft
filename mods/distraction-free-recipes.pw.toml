@@ -1,0 +1,16 @@
+filename = 'distraction_free_recipes-neoforge-1.2.1-1.21.1.jar'
+name = 'Distraction Free Recipes (EMI / REI / JEI)'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e32874486193ae21abe4b0afc03b8864a1e01173192bd26a1df258823ac27867101dcffa526e69a4370d008fe13755234ec18725a87bbe3c338173100f58d7ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gbJLUhZP/versions/H0rFJIiC/distraction_free_recipes-neoforge-1.2.1-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'gbJLUhZP'
+version = 'H0rFJIiC'

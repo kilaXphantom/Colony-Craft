@@ -1,0 +1,16 @@
+filename = 'createfood-neoforge-1.21.1-2.3.0.jar'
+name = 'Create: Food'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f35151c54a3a1993ad3f68438244528028e6ce2e22994f9ad8e507f27aa9795396de5334902de01b758d382223fc575a72a8ce6ce3dfc5f7c10aab109eaff8d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4HnO3el1/versions/OViKhK8K/createfood-neoforge-1.21.1-2.3.0.jar'
+
+[update.modrinth]
+mod-id = '4HnO3el1'
+version = 'OViKhK8K'

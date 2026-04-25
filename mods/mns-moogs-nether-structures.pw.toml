@@ -1,0 +1,32 @@
+filename = 'MoogsNetherStructures-1.21-2.0.31.jar'
+name = "MNS - Moog's Nether Structures"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.10',
+    '1.21.11',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '26.1',
+    '26.1.1',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '052e0df6a0ec18cb35636bbfff88502537ed05e9ff17315589300244e49fc26dfc689b328231a2153279ed35b76e55d9e02443d8ce6af129e09df2e0c8edb9f5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nGUXvjTa/versions/zruwScWL/MoogsNetherStructures-1.21-2.0.31.jar'
+
+[update.modrinth]
+mod-id = 'nGUXvjTa'
+version = 'zruwScWL'

@@ -1,0 +1,16 @@
+filename = 'Design-n-Decor-1.21.1-2.1.0.jar'
+name = "Create: Design n' Decor"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '4aedb1e3a3fe67b391b5c877e094c6cbb5eb395b4f3173b860c90e2ea4e803d1367fd6593bb378184ad46991cf2d5c656444e60edebecf9887e053f29e9e5a9f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/x49wilh8/versions/m6PCLHcp/Design-n-Decor-1.21.1-2.1.0.jar'
+
+[update.modrinth]
+mod-id = 'x49wilh8'
+version = 'm6PCLHcp'

@@ -1,0 +1,16 @@
+filename = 'create-central-kitchen-2.3.0.jar'
+name = 'Create: Central Kitchen'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '36c13e70c28efbf811c57c6fca76279aba7a1d94c8a3e85d6f78f525cb01deee56d7e52968b595b3193532c8f3a44cf9022d5a009e5c97cca16aabafb6d3d40e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/btq68HMO/versions/SpLHbsZw/create-central-kitchen-2.3.0.jar'
+
+[update.modrinth]
+mod-id = 'btq68HMO'
+version = 'SpLHbsZw'

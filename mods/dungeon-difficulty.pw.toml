@@ -1,0 +1,16 @@
+filename = 'dungeon_difficulty-neoforge-3.6.10+1.21.1.jar'
+name = 'Dungeon Difficulty'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7a01dcd724cf3f4496cab330837460e5051dd0fe9f9c47d46d9af53f943d47cfa6e4b52f8bbc307eec7c6a2df22e7f6195b42e1b98b7ce5387c4bbac02c3cd34'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ENZmbSFZ/versions/XAxRmwMM/dungeon_difficulty-neoforge-3.6.10%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'ENZmbSFZ'
+version = 'XAxRmwMM'

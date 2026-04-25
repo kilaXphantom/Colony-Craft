@@ -1,0 +1,16 @@
+filename = 'blur-neoforge-6.2.0+1.21.1.jar'
+name = 'Blur+'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd3ad73746685d7cb349562c5c93c088f68ef214d2ffb6640464abce6cc47c86bf52019d568ea0898cf7fe3826c8e01432d86227d8b3d0c0de06972e1d623101e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NK39zBp2/versions/ZptIZWbz/blur-neoforge-6.2.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'NK39zBp2'
+version = 'ZptIZWbz'

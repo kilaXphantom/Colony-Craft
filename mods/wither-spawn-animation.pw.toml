@@ -1,0 +1,16 @@
+filename = 'wither_spawn_animation-1.6.2-neoforge-1.21.1.jar'
+name = 'Wither Spawn Animation'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bf5f117b9def81d0120fee1b95451ccf43117209b90de60ac4825b7e0a1d33d369c8b3d8162b104c01581527b44b0d25cf71a91e1c121d7ca2d7f49efed80b71'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Vr6UqBIT/versions/i70oR8c3/wither_spawn_animation-1.6.2-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'Vr6UqBIT'
+version = 'i70oR8c3'

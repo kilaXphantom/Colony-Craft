@@ -1,0 +1,16 @@
+filename = 'createframed-1.21.1-1.7.3.jar'
+name = 'Create: Framed'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b28dee6b5c49f20d070aede979e4f1b7598f1119321195a31395d71e640479314fbf5776374b8e1c1df50139b3e91132aca8f2151cae22ff05203f1c630c52ac'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/15fFZ3f4/versions/1BtGyIVR/createframed-1.21.1-1.7.3.jar'
+
+[update.modrinth]
+mod-id = '15fFZ3f4'
+version = '1BtGyIVR'

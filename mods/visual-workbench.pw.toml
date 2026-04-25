@@ -1,0 +1,16 @@
+filename = 'VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar'
+name = 'Visual Workbench'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8e8837d2ddf7d60d192597d0c53d0fe3cd10858bf1cd015b154bc87a05603c0b849acc966592671d927bdb421c83f3c95f80ce5ba63717825508ef1579437aac'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kfqD1JRw/versions/Jy5V5FNj/VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar'
+
+[update.modrinth]
+mod-id = 'kfqD1JRw'
+version = 'Jy5V5FNj'

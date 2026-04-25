@@ -1,0 +1,16 @@
+filename = 'powergrid-mc1.21.1-0.5.4.jar'
+name = 'Create: Power Grid'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'abae023220fe1a11a80a110e28a830ad253f598a795edd09bfbc4a5c8fcbdd1b1eb29e89f7166fa3255213b54164d5d1f70739857d6ba27c2be481f6f84402f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eWiBLJ9R/versions/bli22EIb/powergrid-mc1.21.1-0.5.4.jar'
+
+[update.modrinth]
+mod-id = 'eWiBLJ9R'
+version = 'bli22EIb'
