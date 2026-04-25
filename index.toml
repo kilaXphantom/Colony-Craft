@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "0c89f812bf17569acca0ffecb8baf937a4df1c85c952770706dc129325cb9297"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "9c3ae81b9120ad8fa5aee4693897a614c7766e8016c21c39c8aa648625235474"
 
@@ -47,6 +51,14 @@ hash = "4c3acdce8424f0e3552785deb786a0ed5b837e3f3a445c606d107c5b72f9e10d"
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-server.toml"
 hash = "f307605d2e9622fcb9290a02a28c37febfe87676faebe600899c339c1f9453e4"
+
+[[files]]
+file = "gitattributes"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore"
+hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1317,3 +1329,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "08919de5d8de4b6b5af1c6e030815c8038bdc101dd2a1dc1367b07b3f21ef9e2"
 metafile = true
+
+[[files]]
+file = "packwizignore"
+hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
