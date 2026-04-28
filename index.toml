@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "f103f0d0d236783afa9d163c95a37018bcde241853d69e4eb62000772afe6688"
+hash = "31508c7c87c75cec7ae03cfe2367b6e4ea37035400c2594c93c1e9c60cf64b3f"
 metafile = true
 
 [[files]]
@@ -689,11 +689,6 @@ hash = "bef7bce8eafcdbe82e8cad178e96d581c2431eb263c53d71fb3b77222ad22a8a"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "79d8f4a9e8be3c586a3708599050433ec610194e8ce51b2aa74125bbee617e3c"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "b60cb84b22061ad144331302d4956474fae7be7201e448d91bd82c70e532e7d0"
 metafile = true
@@ -741,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "89321cbcc8789aca2ba0e70cbd3e498de493a5f2b9db51f9c72d65d99c7afee7"
 metafile = true
 
 [[files]]
