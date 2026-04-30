@@ -1723,7 +1723,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dynamic-lights.pw.toml"
-hash = "d1a6c464ff7c2ab92ceee823a278b36b7e6d40bf0a6d273b008b2359a226dcaf"
+hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
 metafile = true
 
 [[files]]
@@ -2524,6 +2524,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "5b552e531a3f3ed424a5d41cf09c0052c261b352bb1f904f7b67dc4a03a06b33"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
 
 [[files]]
