@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Quark"
+filename = "dtquark-2.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9paueCZy/versions/AFvrFo2l/dtquark-2.6.0.jar"
+hash-format = "sha512"
+hash = "d73a98f4cef40df076f5f571c6a0e4c5606d8c826a63e6e01dfdf783217e106dc85f17cc6fed07f8faccbf8f659c696b97272b8bc84202e3b22ba75b23d48d4a"
+
+[update]
+[update.modrinth]
+mod-id = "9paueCZy"
+version = "AFvrFo2l"

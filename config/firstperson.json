@@ -1,0 +1,37 @@
+{
+  "configVersion": 2,
+  "enabledByDefault": true,
+  "xOffset": 0,
+  "sneakXOffset": 0,
+  "sitXOffset": 0,
+  "renderStuckFeatures": true,
+  "vanillaHandsMode": "OFF",
+  "dynamicMode": true,
+  "vanillaHandsSkipSwimming": true,
+  "autoVanillaHands": [
+    "create:potato_cannon",
+    "create:handheld_worldshaper",
+    "twilightforest:filled_ore_map",
+    "map_atlases:atlas",
+    "twilightforest:filled_magic_map",
+    "twilightforest:filled_maze_map",
+    "antiqueatlas:antique_atlas",
+    "create:extendo_grip"
+  ],
+  "autoToggleModItems": [
+    "exposure:camera",
+    "minecolonies:chiefsword",
+    "minecraft:diamond_sword",
+    "create:cardboard_sword",
+    "minecraft:golden_sword",
+    "minecraft:iron_sword",
+    "minecraft:netherite_sword",
+    "minecraft:stone_sword",
+    "phantasm:crystalline_sword",
+    "minecraft:wooden_sword",
+    "tfmg:aluminum_sword",
+    "tfmg:lead_sword",
+    "tfmg:steel_sword"
+  ],
+  "hiddenLayers": []
+}

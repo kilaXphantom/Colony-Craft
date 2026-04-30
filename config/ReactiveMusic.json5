@@ -1,0 +1,16 @@
+{
+	musicDelayLength2: "SONGPACK_DEFAULT",
+	musicSwitchSpeed2: "SONGPACK_DEFAULT",
+	debugModeEnabled: false,
+	loadedUserSongpack: "",
+	blacklistedDimensions: [],
+	savedHomePositions: {
+		saved: {
+			x: -776.5,
+			y: 164.1875,
+			z: 536.5
+		}
+	},
+	soundsMuteMusic: [],
+	hasForcedInitialVolume: true
+}
