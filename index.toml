@@ -119,6 +119,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "8d7b54614f4aa33c4d89e11ed0ec434095e66c80c9557b4e91311ee684227ade"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "7403c8ce0c7839be894130cf2604fe1782806ff81a7f3aa92069584f4f46f530"
 metafile = true
@@ -216,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/chat-impressive-animation.pw.toml"
 hash = "05ed64813de36667cffae5536f753315ab822fe971d1d497e97df575d6d781df"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
