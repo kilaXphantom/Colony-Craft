@@ -286,11 +286,6 @@ hash = "186dd22395dce0b7ab20937a7baba097dc88d32012064acdd402131e9243d171"
 metafile = true
 
 [[files]]
-file = "mods/create-dynamic-lights.pw.toml"
-hash = "77ce35f9c20ed2a397c8e2b95eb9f672cf37e44e16f99f17f250c398cabd89bf"
-metafile = true
-
-[[files]]
 file = "mods/create-easy-structures.pw.toml"
 hash = "828b2fe1e96d624cb2d74d61eb9825e655ae78a869f935f45b4cb124ad3797a5"
 metafile = true
@@ -523,11 +518,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "9b0c5adf5b67a784f483cb30f1ca860efccadd3fc412917b600eb2655e2c14de"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-quark.pw.toml"
-hash = "e74a435a88f4d8cb9bca732ac89c661a189f7dad5eefbd567add33e44e4a44e7"
 metafile = true
 
 [[files]]
