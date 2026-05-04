@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/interiors.pw.toml"
-hash = "22d1ae733fa7449472da0fcec796983b5d9b918e4f2f32c7519f8005935d4545"
+hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
