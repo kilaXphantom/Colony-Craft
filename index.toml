@@ -1,6 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/adorablehamsterpets/announcements.json"
+hash = "e2127bb80576256a35c6b4e3ba2dceb061e17dc0bc865d6fb4792a7987727cf0"
+
+[[files]]
+file = "config/adorablehamsterpets/main.toml"
+hash = "491c06c0f51f9823712c6f3723eff764547c747aa5403b0de9f81063cda9399b"
+
+[[files]]
+file = "config/adorablehamsterpets/manifest.cache.json"
+hash = "b118fb1f1b308f1df138a2a798ea8b6cff0f1a149b4bf6174ed9c1bd4338cf6c"
+
+[[files]]
+file = "config/adorablehamsterpets/perks.cache.json"
+hash = "a5b4af70d2670e81923dff8a27910e3ff88d592dd55a1e778e7dc215a0f73d43"
+
+[[files]]
+file = "config/adorablehamsterpets/root.toml"
+hash = "5b99fddfbf7bc18bcbf36515d2348d02f925300df0da4f07301cd6ec45233d7e"
+
+[[files]]
+file = "config/adorablehamsterpets/worldgen.toml"
+hash = "85382dffec8fa8f22eefc946cdb0112bde936b31bfa70400fc3db7051bebdf88"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "6fd1b6ceac91560a93fe6e48b7f6ee53de397a99f395ffd26aa48bf7cfd6ec1a"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d0c02a64342e1e9023264beb3012459ea76fc535a6d1df7d54fb0785cc2c1058"
 metafile = true
