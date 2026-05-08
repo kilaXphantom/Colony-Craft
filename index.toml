@@ -289,6 +289,11 @@ hash = "8858e70bdbc2772c2872446d31f0e27784db89b38f778866c83ecce73f35d43f"
 metafile = true
 
 [[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "b8e662516d509fc3fcc6036955373de4760e3c43093f31117cef927fb7e4e619"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "98db7dff22beca288d7a314a6da9fe3ae44843c2d22adfde17148d7b1308cee1"
 metafile = true
@@ -886,6 +891,11 @@ metafile = true
 [[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "00f80d6cee2790e52dd18e9d8b5b0f64b5ccaf14c564dc57d69575b8a2280212"
+metafile = true
+
+[[files]]
+file = "mods/minopp.pw.toml"
+hash = "ad45deee7f144ba4ca0b5cca09d8d0d649eee55ae3cd0afd2e21581e23019a20"
 metafile = true
 
 [[files]]
