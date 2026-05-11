@@ -1170,7 +1170,7 @@ metafile = true
 
 [[files]]
 file = "mods/shield-expansion.pw.toml"
-hash = "346c9b83f32b3135e20719c4bf116f29cb460608fd07dbaf7ac84bef2511bb6e"
+hash = "87db45eeaa826bfb058d0f6e426c8a0c5381c127c4fd1479fd2886aa48ecbda7"
 metafile = true
 
 [[files]]
@@ -1321,11 +1321,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "17db0e8a9513e2a7175364ea062016041934a83f09f5dcfbf7a0f252ef7880f3"
-metafile = true
-
-[[files]]
-file = "mods/typewriter-daycounter.pw.toml"
-hash = "9e28c75b57a2ac35db44ffb324d1f657b4247de325d0f39e27337fbaf866973c"
 metafile = true
 
 [[files]]

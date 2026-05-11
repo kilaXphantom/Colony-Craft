@@ -1,6 +1,6 @@
 name = "Shield Expansion"
 filename = "shieldexp-neoforge-1.21.1-1.4.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sjxWxSao/versions/eDHhr3j9/shieldexp-neoforge-1.21.1-1.4.1.jar"
