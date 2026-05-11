@@ -25,8 +25,20 @@ file = "config/adorablehamsterpets/worldgen.toml"
 hash = "85382dffec8fa8f22eefc946cdb0112bde936b31bfa70400fc3db7051bebdf88"
 
 [[files]]
+file = "config/betterdays-client.toml"
+hash = "e5e16e8233e381d9fa16da8bf4582c4c2ad2c008f39d86cf63be891f409a1cca"
+
+[[files]]
+file = "config/betterdays-common.toml"
+hash = "1330a9ac50d405aadff5380da0d2dd16c665e7af4ceb40de2a4d5d9a62edc904"
+
+[[files]]
 file = "config/defaultoptions/servers.dat"
 hash = "6fd1b6ceac91560a93fe6e48b7f6ee53de397a99f395ffd26aa48bf7cfd6ec1a"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "c726cbb11485743f7d2fe0b49a5c0166f3b95a6159068de1f655c7b11a740d2b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -136,11 +148,6 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "53ee740402d386ffcbf664088908e4f8bea2d6854baa57aed57e9e1824992fc9"
-metafile = true
-
-[[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "5a7c48e5cbea0ea2c1b1a1077bf5539f97c8c97e155a28691d2b9f3c58574589"
 metafile = true
 
 [[files]]
@@ -1169,6 +1176,11 @@ hash = "87db45eeaa826bfb058d0f6e426c8a0c5381c127c4fd1479fd2886aa48ecbda7"
 metafile = true
 
 [[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "b593f3e925d3a13f560541768209735c7aa05422b115c9cf3143c6c1b8019ecb"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "204b91d29a270cda31a5379bc146b7fceee9f804f5ca3253c62c9f165144ff36"
 metafile = true
@@ -1286,6 +1298,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/third-person-shooting.pw.toml"
+hash = "8b23001827b8c8e7432cb498870b15173e57e7fc098e3979c96450f131ef0637"
 metafile = true
 
 [[files]]
