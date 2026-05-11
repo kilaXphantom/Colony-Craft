@@ -144,6 +144,11 @@ hash = "5a7c48e5cbea0ea2c1b1a1077bf5539f97c8c97e155a28691d2b9f3c58574589"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ef21ad54186d4a41f30037d731dce9e65501811266fa39a264a39938f481851e"
 metafile = true
@@ -195,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "cc96b4bab8b7a7f137a245d67b446c75a353ba3d6609e9239da155099a543d6b"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
@@ -206,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
@@ -226,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "734b7b5711725558f33d4fd138e75435f4b64cb541e52d4fd43499843c673673"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "aad649656cd71a0ec12425cdaea7f96855ea62f256237fc84c9ef65da7ae9d90"
 metafile = true
 
 [[files]]
@@ -484,6 +499,11 @@ hash = "5504c61b8244bdccfc63da61cde28210be3f600af71b0951b57effc11540b484"
 metafile = true
 
 [[files]]
+file = "mods/curios-for-ammo-box.pw.toml"
+hash = "654fb5d1f8570de57e1581fdbe9050bd675481dfab1e56ca8e8c2833a3224b85"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "8cfdfca589157217c3bd617dad6b298f82b4818e1cf67383ce9f2d5b85a9f997"
 metafile = true
@@ -684,6 +704,11 @@ hash = "fcf99870754e301bccdf850f5850902f472831bbd19bb30a152ce5299bfdc1c6"
 metafile = true
 
 [[files]]
+file = "mods/female-gender.pw.toml"
+hash = "882b7ef150e03885865ae89ff47e072058999f743d449ca96ed9a6f71d412c8d"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "bef7bce8eafcdbe82e8cad178e96d581c2431eb263c53d71fb3b77222ad22a8a"
 metafile = true
@@ -769,8 +794,23 @@ hash = "dd1ca6cc1343aea19d045c36f0fed7a5d61aee41d9494c1e9662353484182fb6"
 metafile = true
 
 [[files]]
+file = "mods/immersive-furniture.pw.toml"
+hash = "2c3b11ad8600d216d09491fc05bfd0c378c648d23f7616f23bbb18716778ff6f"
+metafile = true
+
+[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "f4989e3bf4434f53191c6f7000ef3c9885c4594044a9d9e04a5c47e75b8d2710"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "68dea5aaacce3d37f90e1de5908cb7e85424f2439266eeafac1b17e8cabb8672"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "0eef279850c173527c29e0d550aa4a6a616caf031056ac85e69ced91e0cc8ce1"
 metafile = true
 
 [[files]]
@@ -826,6 +866,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/labels.pw.toml"
+hash = "a4e09391cb50364b131f96b500eabd2f19c88bd5c175b8acd5c7ace5b7689723"
 metafile = true
 
 [[files]]
@@ -929,6 +974,11 @@ hash = "c5ef494a404a4d0a162de0460495b7c1c4c21af79feb5537599a3ecc31c97b75"
 metafile = true
 
 [[files]]
+file = "mods/more-armor-trims.pw.toml"
+hash = "241889855b03ad7fecf82b441e2fbb3be925bd2e73b22598487a1c4831a77b52"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "bbea92d8e42f5bbe9a8011c0f2dc89c4f0d3ca5e53395ddb4f3e76f8797f0cfc"
 metafile = true
@@ -961,6 +1011,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5843d5286233c5dc16fadc404f67e60b8d7bd7eb26fd4f2387834abace38f37b"
+metafile = true
+
+[[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "df6299f5622d3e53a9cae66696cdc7b2b557b11b5be101eebb7ebd7a91d501db"
 metafile = true
 
 [[files]]
@@ -1074,6 +1129,11 @@ hash = "0c962dd390bc7bf78c48c1507a9d60fe05e2a6c984023414e0ba88abb516719c"
 metafile = true
 
 [[files]]
+file = "mods/reconstructed-wands.pw.toml"
+hash = "59226821b9e7d45259019ee822a4480c0edd3b3c7f067b17767a035ebb71529a"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88a224bb7ed128a523a0a27c42c571c2e049705e2d21227d1e9d18878835cda2"
 metafile = true
@@ -1106,6 +1166,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+metafile = true
+
+[[files]]
+file = "mods/shield-expansion.pw.toml"
+hash = "346c9b83f32b3135e20719c4bf116f29cb460608fd07dbaf7ac84bef2511bb6e"
 metafile = true
 
 [[files]]
@@ -1200,12 +1265,17 @@ metafile = true
 
 [[files]]
 file = "mods/tacz-1.21.1.pw.toml"
-hash = "ca7d670a9cbcabf9fd90466feb6b5694354a11c4758fd8a2d7586ecdbf6d13a2"
+hash = "950887204c560dea40424bbc36b7c58ac4cba566dad3076bf1f7be030f4cceb0"
+metafile = true
+
+[[files]]
+file = "mods/tacz-aeronautics-compat.pw.toml"
+hash = "53ef92d91ce45bc3c12e78c74142d27cb437acd5b53073ec63bf18f5e25ed432"
 metafile = true
 
 [[files]]
 file = "mods/tacz-pack-upgrader.pw.toml"
-hash = "be68cf5ed8b43b51deda05f08ed64dcd68a066d2b8dddc7ea55ec16fb544751b"
+hash = "1f3cec54049e8cb68e47c46deb0962f1e2554f77baeac925fb340d178e804263"
 metafile = true
 
 [[files]]
@@ -1239,6 +1309,11 @@ hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "ef870d22b5ee7e2718a1d849680d25103aae0f5a0b7c569b99032803ea772e68"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "5d14f568409eb1507f2c91bd5d14be5c98d7a4cdbfd075548092034bd75d186b"
 metafile = true
@@ -1246,6 +1321,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "17db0e8a9513e2a7175364ea062016041934a83f09f5dcfbf7a0f252ef7880f3"
+metafile = true
+
+[[files]]
+file = "mods/typewriter-daycounter.pw.toml"
+hash = "9e28c75b57a2ac35db44ffb324d1f657b4247de325d0f39e27337fbaf866973c"
 metafile = true
 
 [[files]]
@@ -1266,6 +1346,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "4981a9c7d7190f396babc86d8dbb440349ca5090d8442c67671c505d4153c914"
+metafile = true
+
+[[files]]
+file = "mods/wandering-trader-may-leave.pw.toml"
+hash = "e83f88eac056b856679eb51612f20f828711ff2c3dcfe90ea3a33116144260ba"
 metafile = true
 
 [[files]]

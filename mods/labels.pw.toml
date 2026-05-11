@@ -1,0 +1,13 @@
+name = "Storage Labels"
+filename = "labels-1.21-2.0.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x6r7yhfi/versions/Wim4FW6j/labels-1.21-2.0.3-neoforge.jar"
+hash-format = "sha512"
+hash = "ffa957441aa69ddf491aadad2ec0f2b23e484fa8a9351cd6b6ce68c111f0e442f53994efead911be02f45ef289ef9c749cf1eed10c215334a7cf25704f5c29c1"
+
+[update]
+[update.modrinth]
+mod-id = "x6r7yhfi"
+version = "Wim4FW6j"

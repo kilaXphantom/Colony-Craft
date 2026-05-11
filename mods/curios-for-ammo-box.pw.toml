@@ -1,0 +1,13 @@
+name = "[TaCZ]  Curios For Ammo Box"
+filename = "curios_for_ammo_box-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kZAvLL7l/versions/b1PLIXB4/curios_for_ammo_box-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "baf047979e205269641e1814ce2f835ee614f189726872e3895500572e41e62915bd5ff76a3f47f82b95dbaa5662b835b451acca97ee77b48ad886d3b0b09cd3"
+
+[update]
+[update.modrinth]
+mod-id = "kZAvLL7l"
+version = "b1PLIXB4"

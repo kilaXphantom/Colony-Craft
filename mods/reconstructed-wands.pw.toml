@@ -1,0 +1,13 @@
+name = "RE:Constructed Wands"
+filename = "reconstructedwands-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zj6ZBpmY/versions/JEkqCnZf/reconstructedwands-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "4cf8017fb8bdcb5618ccbcc6ee5b0b5a78467a515bc9ebd5f2ceff40d01ebfc237de9bada011c1e18c15b8b692837e0bea8736f5c6d58f71d3a21e34bfed34bb"
+
+[update]
+[update.modrinth]
+mod-id = "zj6ZBpmY"
+version = "JEkqCnZf"
