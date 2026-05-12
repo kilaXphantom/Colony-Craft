@@ -196,6 +196,11 @@ hash = "4a5d695b427eb5f9e9e05987c547e1a6f4d831552ea1cdf0dc815d0ba67ab50a"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "268fbf8741bb8b9c8e7c1cea88eb638b95d2494edbe473dd1ea5f04106c82677"
 metafile = true
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "1cf0666d0d83ca652c5702dfb0adc5386b669810fcfbc5147e95d468190f59c6"
+metafile = true
+
+[[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "c7d7ee14a057fc2c5b1e36af8da13f4e702f15109d5bc247daa4246ca8302dc3"
 metafile = true
 
 [[files]]
@@ -526,8 +536,18 @@ hash = "ef7868aa3a029cdb7a9a46fc3f55ae12c4bc86cb5d92ae889ed554acfa229c45"
 metafile = true
 
 [[files]]
+file = "mods/delightful-creators.pw.toml"
+hash = "3b26aa1f81c86ead9da08dcf8d2af6d5ad5ce00211a1d7a1773b9f5a9dcc68a6"
+metafile = true
+
+[[files]]
 file = "mods/disccord.pw.toml"
 hash = "80be88fe7619d3ad5c60cd62fb88edbfb890f9b847cf7d29c9f74854604b7cc6"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
 metafile = true
 
 [[files]]
@@ -656,6 +676,11 @@ hash = "3ff9642156890f6cb80adab6aa07fc4c5f0215e735ec9e57d9d709e5b832b406"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "c31e8aea1f4ddc50d79c6dfa46dec8cbbf1a6108ff74db140baa0395ea4c5766"
+metafile = true
+
+[[files]]
 file = "mods/ends-phantasm.pw.toml"
 hash = "419b789d74cd5cf790cdb6f682a04d5863c9c3b364e0c686accc96340204242b"
 metafile = true
@@ -693,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/extra-gauges.pw.toml"
 hash = "e664de79b3dfad080265abb3755f5bf63c84fcfcba62291f3091b6449ec0776f"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
 metafile = true
 
 [[files]]
@@ -946,6 +976,11 @@ hash = "ad45deee7f144ba4ca0b5cca09d8d0d649eee55ae3cd0afd2e21581e23019a20"
 metafile = true
 
 [[files]]
+file = "mods/mmlib.pw.toml"
+hash = "65db1262f3d0823a0795b8b38328c0eceeb4632892f7c168e3c8e6abf4638735"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "332009b983fd2c0bb9893aae825fe58ebb3a7b3659ad9564d99aee86298deb88"
 metafile = true
@@ -1028,6 +1063,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "deb7ea7099823e4323e047c0d2c0b35b9d4d1af54091a5e27a054592cb030e68"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
 metafile = true
 
 [[files]]
@@ -1187,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "5b552e531a3f3ed424a5d41cf09c0052c261b352bb1f904f7b67dc4a03a06b33"
+hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
 metafile = true
 
 [[files]]
