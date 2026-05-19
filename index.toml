@@ -261,6 +261,11 @@ hash = "6cc70c347efd4a3dfe147a992260a1e5ee12ddb16065ca21d42062fa3bee1301"
 metafile = true
 
 [[files]]
+file = "mods/copycats+-aeronautics-weight.pw.toml"
+hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "1cf0666d0d83ca652c5702dfb0adc5386b669810fcfbc5147e95d468190f59c6"
 metafile = true
