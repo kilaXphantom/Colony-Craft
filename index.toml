@@ -37,18 +37,6 @@ file = "config/defaultoptions/servers.dat"
 hash = "6fd1b6ceac91560a93fe6e48b7f6ee53de397a99f395ffd26aa48bf7cfd6ec1a"
 
 [[files]]
-file = "config/disccord/ffmpeg/ffmpeg.exe"
-hash = "228d7a8556258de907fdb55f36850078ebc7680b84ec30d84ea02e99bec1d1eb"
-
-[[files]]
-file = "config/disccord/ffmpeg/ffmpeg.zip"
-hash = "6f58ce889f59c311410f7d2b18895b33c03456463486f3b1ebc93d97a0f54541"
-
-[[files]]
-file = "config/disccord/youtubedl/yt-dlp.exe"
-hash = "3db811b366b2da47337d2fcfdfe5bbd9a258dad3f350c54974f005df115a1545"
-
-[[files]]
 file = "config/quark-common.toml"
 hash = "c726cbb11485743f7d2fe0b49a5c0166f3b95a6159068de1f655c7b11a740d2b"
 
