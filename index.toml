@@ -546,11 +546,6 @@ hash = "ef7868aa3a029cdb7a9a46fc3f55ae12c4bc86cb5d92ae889ed554acfa229c45"
 metafile = true
 
 [[files]]
-file = "mods/delightful-creators.pw.toml"
-hash = "3b26aa1f81c86ead9da08dcf8d2af6d5ad5ce00211a1d7a1773b9f5a9dcc68a6"
-metafile = true
-
-[[files]]
 file = "mods/disccord.pw.toml"
 hash = "80be88fe7619d3ad5c60cd62fb88edbfb890f9b847cf7d29c9f74854604b7cc6"
 metafile = true
