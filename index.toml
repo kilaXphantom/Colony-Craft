@@ -33,6 +33,10 @@ file = "config/betterdays-common.toml"
 hash = "1330a9ac50d405aadff5380da0d2dd16c665e7af4ceb40de2a4d5d9a62edc904"
 
 [[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "6fd1b6ceac91560a93fe6e48b7f6ee53de397a99f395ffd26aa48bf7cfd6ec1a"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "c726cbb11485743f7d2fe0b49a5c0166f3b95a6159068de1f655c7b11a740d2b"
 
