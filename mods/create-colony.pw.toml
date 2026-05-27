@@ -1,0 +1,13 @@
+name = "Create: Colony"
+filename = "createcolony-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8daceeaa4a2cc210e9ae2711fc7da212c879030a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7401260
+project-id = 1417489

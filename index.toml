@@ -311,6 +311,11 @@ hash = "c8b2e60b789885854508c674ba0630cdc8dc2a880302d8475cdc5ae06c44f64a"
 metafile = true
 
 [[files]]
+file = "mods/create-colony.pw.toml"
+hash = "a914278f098e3dbcaea32f058ebee8792b32391405f7297d0de98f9316dcfbd7"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "31508c7c87c75cec7ae03cfe2367b6e4ea37035400c2594c93c1e9c60cf64b3f"
 metafile = true
