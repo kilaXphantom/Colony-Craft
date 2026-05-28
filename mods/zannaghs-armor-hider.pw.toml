@@ -1,0 +1,13 @@
+name = "Armor Hider"
+filename = "armor-hider-neoforge-0.11.0+mc-1.21.0-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GgG2my3y/versions/nSKoOZ4U/armor-hider-neoforge-0.11.0%2Bmc-1.21.0-1.jar"
+hash-format = "sha512"
+hash = "f8e0d30d6a17e921bf0ebe81edd3882e09ff3a766f9870b7d5f2d3350c753a6b93502a4dea94aea017db80ef855a0c2d24a8ac28522efc61826322e241d2d8ec"
+
+[update]
+[update.modrinth]
+mod-id = "GgG2my3y"
+version = "nSKoOZ4U"

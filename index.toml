@@ -1486,6 +1486,11 @@ hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
 metafile = true
 
 [[files]]
+file = "mods/zannaghs-armor-hider.pw.toml"
+hash = "c964700f42d5874e66550b5a787035e13a9b0ef2c5da5156a95d467ea4ae84c3"
+metafile = true
+
+[[files]]
 file = "mods/zeta.pw.toml"
 hash = "08919de5d8de4b6b5af1c6e030815c8038bdc101dd2a1dc1367b07b3f21ef9e2"
 metafile = true
