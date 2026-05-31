@@ -37,8 +37,16 @@ file = "config/defaultoptions/servers.dat"
 hash = "6fd1b6ceac91560a93fe6e48b7f6ee53de397a99f395ffd26aa48bf7cfd6ec1a"
 
 [[files]]
+file = "config/entityculling.json"
+hash = "3b29d1d2da9688b4d5aeaf41c0007358d4c6ff8d7b1402515a5b919473dd3cb5"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "c726cbb11485743f7d2fe0b49a5c0166f3b95a6159068de1f655c7b11a740d2b"
+
+[[files]]
+file = "config/xaeroplus.txt"
+hash = "0fca8eaa7429d4b437f8293f99f1408e303828487f352119cae0ebd0fd484c96"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
