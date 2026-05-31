@@ -49,6 +49,22 @@ file = "config/quark-common.toml"
 hash = "c726cbb11485743f7d2fe0b49a5c0166f3b95a6159068de1f655c7b11a740d2b"
 
 [[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
+
+[[files]]
+file = "config/sound_physics_remastered/sound_rates.properties"
+hash = "f34aeff8520c48574890b30fb514676d46be6e11d87d4c69b8e175cf7e4b5aa3"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "90449103f517bb6a80aa86aeb89427965a91d96ae679e059c1d10011993c53cf"
+
+[[files]]
 file = "config/xaeroplus.txt"
 hash = "0fca8eaa7429d4b437f8293f99f1408e303828487f352119cae0ebd0fd484c96"
 
