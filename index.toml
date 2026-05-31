@@ -37,6 +37,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "6fd1b6ceac91560a93fe6e48b7f6ee53de397a99f395ffd26aa48bf7cfd6ec1a"
 
 [[files]]
+file = "config/disccord-client.toml"
+hash = "7fc0596fca5bce6876797cbd813ebeba604ece86c2355051b40f1a927efaf9c1"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "3b29d1d2da9688b4d5aeaf41c0007358d4c6ff8d7b1402515a5b919473dd3cb5"
 
