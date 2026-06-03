@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Thrusters and Things"
+filename = "createthrusters-bundled-0.1.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sza3GgEL/versions/J3z85r47/createthrusters-bundled-0.1.10.jar"
+hash-format = "sha512"
+hash = "3b8d80154ad799e5035e4135f00898029b05927445b717ee5465d33e77b1c30c6ed0052cfa7370c9988ab5b1660b49fccf9734fb7107879d1a30d0d50a7a8b44"
+
+[update]
+[update.modrinth]
+mod-id = "Sza3GgEL"
+version = "J3z85r47"

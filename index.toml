@@ -84,6 +84,16 @@ hash = "b2d1abbe3f28a4b6629781be32adc54e390ad752702a2883ec3954fd3ef1a95f"
 metafile = true
 
 [[files]]
+file = "mods/aero_cam_sync.pw.toml"
+hash = "06ea6aa660fd44b7d49ea2690c17553968e9de086ef79ac027ef8ecb5aafa862"
+metafile = true
+
+[[files]]
+file = "mods/aeronautics-propeller-blur.pw.toml"
+hash = "7fd99e9561534a62906b7692b6de79d947c36687490d7a8aee5c51d06f85ee12"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
@@ -316,6 +326,16 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "d94ab8daf04c9490e09d5ecedd3b7775b62605bbabeff86f2c7da933e5f1173a"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-thrusters-and-things.pw.toml"
+hash = "4dbf9e983972dc0aea736b8a7b78708971bc3a37869bcf812fdc69ca9d39309a"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-transmission-linkage.pw.toml"
+hash = "2144a1d02fc9dd63e923178a0dc7b99cfa1d44f8d956ba9eaaa4b7f03195bf9a"
 metafile = true
 
 [[files]]
@@ -954,6 +974,11 @@ hash = "07889452ca9b685fbaabb8b69cb4c2c2f7ad369eb89f0cb07003229c4c98c092"
 metafile = true
 
 [[files]]
+file = "mods/lever-drugster.pw.toml"
+hash = "a1824482f167a446da96ecabb49365c97f374d37b369366b39b7625442e45575"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d97aae1ca8ef9a754e290540d2c6209e256c998041b4e2ea2cda6d5c9c86eb71"
 metafile = true
@@ -1331,6 +1356,11 @@ metafile = true
 [[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "463aba1cd986ba8d86c635fb85a15deb680fcf67e0fdfb6ab6b3444d16894258"
+metafile = true
+
+[[files]]
+file = "mods/ssrd.pw.toml"
+hash = "ffaa11cd58e879d8309976f670f82d156ef5286cef6daad2e76b0fc3902fb4e0"
 metafile = true
 
 [[files]]

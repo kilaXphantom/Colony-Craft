@@ -1,0 +1,13 @@
+name = "Lever durgster"
+filename = "lever-drugster-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GQNtImhh/versions/CBOri7n8/lever-drugster-1.5.2.jar"
+hash-format = "sha512"
+hash = "3e71cee4a0193cc6e9cc154f44c040709d28b0c9f3d9af233351b4959f8384aacfae8e7a4a5e747802186a839f2f17546f3a3ed553a0c056eaab25b31aee2b09"
+
+[update]
+[update.modrinth]
+mod-id = "GQNtImhh"
+version = "CBOri7n8"
