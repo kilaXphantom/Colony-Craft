@@ -1144,11 +1144,6 @@ hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "e844887738bfcc773293ebe1c400a9d94d48a6955cca283b7d6c903cee00e25d"
-metafile = true
-
-[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "3ddadcd72047eb5bc1cd7498d8c8936eecfe564f7b6674db2dcb15127670f9d1"
 metafile = true
