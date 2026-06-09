@@ -344,8 +344,13 @@ hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons-advanced-technologies.pw.toml"
+hash = "2de7339944ca4d988001c6cf30e9bf793cce8e18b6519fa3209afa8fb6ee3f94"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
+hash = "f7b20a7e5ae4678c0e74e7e6945f48c402636f8887d65b0cdab0357dd5c08856"
 metafile = true
 
 [[files]]
@@ -505,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-radars.pw.toml"
-hash = "17e0ed5952ada576c3cd5f141637e5a7a9e769a68f8af1ce5902cc04e482996f"
+hash = "b9fd6d8f4f32e306b910be63b315f16bddbc4e9bfefa5d4a7d5a90e42773e05f"
 metafile = true
 
 [[files]]
