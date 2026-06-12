@@ -8,7 +8,8 @@
     "create:hose_pulley",
     "betterend:eternal_pedestal",
     "botania:magic_missile",
-    "botania:falling_star"
+    "botania:falling_star",
+    "minopp:mino_table"
   ],
   "entityWhitelist": [
     "botania:mana_burst",

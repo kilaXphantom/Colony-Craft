@@ -42,7 +42,11 @@ hash = "7fc0596fca5bce6876797cbd813ebeba604ece86c2355051b40f1a927efaf9c1"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "3b29d1d2da9688b4d5aeaf41c0007358d4c6ff8d7b1402515a5b919473dd3cb5"
+hash = "d5f16aeabf204d067381a963ada535e4ba8d6610e82f21357c746f0da7d9cff2"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "63f9bdeea48c3dab1dfd510795fd67214e378b60551a5fc8f12e095a40612cb8"
 
 [[files]]
 file = "config/quark-common.toml"
