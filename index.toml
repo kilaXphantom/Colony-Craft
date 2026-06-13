@@ -49,6 +49,10 @@ file = "config/moreculling.toml"
 hash = "63f9bdeea48c3dab1dfd510795fd67214e378b60551a5fc8f12e095a40612cb8"
 
 [[files]]
+file = "config/name_generation.cfg"
+hash = "a7e5a3857bfcf6c3afdac504ed0c70adfc52b8ff88b6a398db4d4cb85caa446a"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "c726cbb11485743f7d2fe0b49a5c0166f3b95a6159068de1f655c7b11a740d2b"
 
