@@ -92,16 +92,6 @@ hash = "b2d1abbe3f28a4b6629781be32adc54e390ad752702a2883ec3954fd3ef1a95f"
 metafile = true
 
 [[files]]
-file = "mods/aero_cam_sync.pw.toml"
-hash = "06ea6aa660fd44b7d49ea2690c17553968e9de086ef79ac027ef8ecb5aafa862"
-metafile = true
-
-[[files]]
-file = "mods/aeronautics-propeller-blur.pw.toml"
-hash = "7fd99e9561534a62906b7692b6de79d947c36687490d7a8aee5c51d06f85ee12"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
@@ -348,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
@@ -429,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/create-encased.pw.toml"
 hash = "951b8c09fe02c336913a3c3b32dbe05346bb30c33519a292022e1816cbeb63fd"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantable-machinery.pw.toml"
+hash = "c56e9d5e16752de3d7c4db6c1afb1a89d714e831b151c0ff2c8ae58e8756dd4b"
 metafile = true
 
 [[files]]
@@ -578,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "5cfca134d4424d9df59171ed20d62176c0400799978f9ec652e0a2ba5976aa13"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
