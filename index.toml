@@ -1493,7 +1493,7 @@ metafile = true
 
 [[files]]
 file = "mods/veil.pw.toml"
-hash = "a2a09028f7cdeb401596b6415d0a2d72cbf502c4379a6497140b76db6d00acc6"
+hash = "9a6db05133916edf534ebe7ac7febe62c63c58e7cd0214bc6fe792c382c134bf"
 metafile = true
 
 [[files]]
