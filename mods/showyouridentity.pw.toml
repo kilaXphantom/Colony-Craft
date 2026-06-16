@@ -1,0 +1,13 @@
+name = "Show Your Identity"
+filename = "showyouridentity-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IXLCwOQd/versions/RcEHdSUu/showyouridentity-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "afc24ddc9571523ee038d3b9adcd40ed4474c6d8959b15e4829b071c4ed9306afe16c200b3ea3b5839096c0dc495dfb2927269fc1c2d76982f7831ed84bbcd4e"
+
+[update]
+[update.modrinth]
+mod-id = "IXLCwOQd"
+version = "RcEHdSUu"
