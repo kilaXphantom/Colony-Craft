@@ -1253,7 +1253,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "88a224bb7ed128a523a0a27c42c571c2e049705e2d21227d1e9d18878835cda2"
+hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
 metafile = true
 
 [[files]]
@@ -1478,7 +1478,7 @@ metafile = true
 
 [[files]]
 file = "mods/veil.pw.toml"
-hash = "9a6db05133916edf534ebe7ac7febe62c63c58e7cd0214bc6fe792c382c134bf"
+hash = "7fc272526017c9a6df2bb70ba8b60e4061fcbdb21572343963056cc7396baae3"
 metafile = true
 
 [[files]]
