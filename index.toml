@@ -1378,7 +1378,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "ffaa11cd58e879d8309976f670f82d156ef5286cef6daad2e76b0fc3902fb4e0"
+hash = "bbd4da760e86070507a69819af9515a4b6e2d9ce5531051c0cce4b19b358a2be"
 metafile = true
 
 [[files]]
