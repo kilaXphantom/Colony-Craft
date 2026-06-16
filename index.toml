@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-thrusters-and-things.pw.toml"
-hash = "4dbf9e983972dc0aea736b8a7b78708971bc3a37869bcf812fdc69ca9d39309a"
+hash = "da4a7a9d676c3075fb2e808a9c1204a52068c324fc33b7ba7352d1f126fb1fa6"
 metafile = true
 
 [[files]]
