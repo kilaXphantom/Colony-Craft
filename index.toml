@@ -1033,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies-compatibility.pw.toml"
-hash = "145f985bdbebf581c42b18c6e353abd6ad1f631abe735e5303039d27116ab8bc"
+hash = "d490a06df17a5ab903841cf139a28dd25f83bc3f75273dc021790a68ac5ab9eb"
 metafile = true
 
 [[files]]
@@ -1048,7 +1048,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "00f80d6cee2790e52dd18e9d8b5b0f64b5ccaf14c564dc57d69575b8a2280212"
+hash = "bfc16a49ef73733fc1faf92cc0560451cbb9ea1a133ea4162cf26e0019b998bf"
 metafile = true
 
 [[files]]
