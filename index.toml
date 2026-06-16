@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-transmission-linkage.pw.toml"
-hash = "2144a1d02fc9dd63e923178a0dc7b99cfa1d44f8d956ba9eaaa4b7f03195bf9a"
+hash = "e987602189dd7ddd92dc6b718d4f6e132b7f9c4b729330972a0ff6088e0ce21e"
 metafile = true
 
 [[files]]
@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d97aae1ca8ef9a754e290540d2c6209e256c998041b4e2ea2cda6d5c9c86eb71"
+hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
@@ -1333,7 +1333,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "871ecf0d4a0b88f013522a61f908ffedfeaf48fa8c71897f2e11b89703e1717c"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
