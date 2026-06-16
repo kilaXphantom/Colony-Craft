@@ -908,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-furniture.pw.toml"
-hash = "2c3b11ad8600d216d09491fc05bfd0c378c648d23f7616f23bbb18716778ff6f"
+hash = "e6dee59bb58bffe74e503c5b37fe0623c11a761022f3ee77cb9a6fc1b71cf2b2"
 metafile = true
 
 [[files]]
