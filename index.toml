@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
-hash = "186dd22395dce0b7ab20937a7baba097dc88d32012064acdd402131e9243d171"
+hash = "c308b557b01b6e6cc25ee8d6a1a7c78bca2b71be3ae645e40d10cf25259fabcd"
 metafile = true
 
 [[files]]
@@ -1319,11 +1319,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
-metafile = true
-
-[[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
 
 [[files]]
