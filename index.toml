@@ -377,6 +377,11 @@ hash = "8858e70bdbc2772c2872446d31f0e27784db89b38f778866c83ecce73f35d43f"
 metafile = true
 
 [[files]]
+file = "mods/create-crimsite-recipe.pw.toml"
+hash = "ebda6a1212186ecab6d7fe6bbe5335b20caf2327682345ccb3ceac1a5f0d390c"
+metafile = true
+
+[[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "b8e662516d509fc3fcc6036955373de4760e3c43093f31117cef927fb7e4e619"
 metafile = true

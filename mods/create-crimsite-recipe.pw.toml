@@ -1,0 +1,13 @@
+name = "Create: Crimsite Recipe"
+filename = "create-crimsite-recipe-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t1fcPMyu/versions/eATkXzQ2/create-crimsite-recipe-1.jar"
+hash-format = "sha512"
+hash = "ed8efc2143089e76378bd312963f1a79e75f47c3336722b4c0c4726b7484f7e95b0c1a3950f6963e111ec748ebabcb927c6ac4c9db118d8c8fcda8a84fc3e50c"
+
+[update]
+[update.modrinth]
+mod-id = "t1fcPMyu"
+version = "eATkXzQ2"
