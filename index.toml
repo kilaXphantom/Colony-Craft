@@ -322,6 +322,11 @@ hash = "d94ab8daf04c9490e09d5ecedd3b7775b62605bbabeff86f2c7da933e5f1173a"
 metafile = true
 
 [[files]]
+file = "mods/create-additional-logistics.pw.toml"
+hash = "ba904d5c6a361b648fa7df9ecb8133ef6d1cdc596edb0be128b5562ebbdc14ae"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-thrusters-and-things.pw.toml"
 hash = "da4a7a9d676c3075fb2e808a9c1204a52068c324fc33b7ba7352d1f126fb1fa6"
 metafile = true
@@ -1559,4 +1564,9 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "08919de5d8de4b6b5af1c6e030815c8038bdc101dd2a1dc1367b07b3f21ef9e2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "0fb23766919c354cfb5c5348329e7bac823dfd58d1a9660fcbfc0ab1506dc233"
 metafile = true
