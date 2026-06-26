@@ -9,7 +9,11 @@
     "betterend:eternal_pedestal",
     "botania:magic_missile",
     "botania:falling_star",
-    "minopp:mino_table"
+    "minopp:mino_table",
+    "pantographsandwires:cantilever_block_entity",
+    "pantographsandwires:multiblock_wire_connector_block_entity",
+    "pantographsandwires:pantograph_block_entity",
+    "pantographsandwires:wire_connector_block_entity"
   ],
   "entityWhitelist": [
     "botania:mana_burst",

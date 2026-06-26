@@ -42,11 +42,11 @@ hash = "7fc0596fca5bce6876797cbd813ebeba604ece86c2355051b40f1a927efaf9c1"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "d5f16aeabf204d067381a963ada535e4ba8d6610e82f21357c746f0da7d9cff2"
+hash = "bac5d910f34d02d1e88069472f4f4da6c6b9af604d2ebba82698af5829068be5"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "63f9bdeea48c3dab1dfd510795fd67214e378b60551a5fc8f12e095a40612cb8"
+hash = "80ffc87b25edc74d085dbf0752b516c242b40a7ebe5454180101fede364324cc"
 
 [[files]]
 file = "config/name_generation.cfg"
