@@ -1167,6 +1167,11 @@ hash = "deb7ea7099823e4323e047c0d2c0b35b9d4d1af54091a5e27a054592cb030e68"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "00fb150ec4389dbe540bcede8ac3b6e34677f5bf3e3454732d311b7e44569d63"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
 metafile = true
