@@ -1,0 +1,13 @@
+name = "Longwings"
+filename = "Longwings-v0.9.5-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YXWD6pbz/versions/h13ko2fP/Longwings-v0.9.5-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "e31dbbba066e44424bcbda1deced6b2f0294a6558c7ba344bab998ef86c6fab5902bb34ff8a4b913b93edb94f37cc6965833ebf9f71b21b8bec2a5475d45565b"
+
+[update]
+[update.modrinth]
+mod-id = "YXWD6pbz"
+version = "h13ko2fP"

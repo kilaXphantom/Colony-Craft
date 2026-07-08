@@ -367,6 +367,11 @@ hash = "c8b2e60b789885854508c674ba0630cdc8dc2a880302d8475cdc5ae06c44f64a"
 metafile = true
 
 [[files]]
+file = "mods/create-cobblestone.pw.toml"
+hash = "42c1a422e697288fa65a78fd1aa3c88f9c5246fb61f95ba219fadb600ab18a9e"
+metafile = true
+
+[[files]]
 file = "mods/create-colony.pw.toml"
 hash = "a914278f098e3dbcaea32f058ebee8792b32391405f7297d0de98f9316dcfbd7"
 metafile = true
@@ -1024,6 +1029,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+metafile = true
+
+[[files]]
+file = "mods/longwings.pw.toml"
+hash = "378ac3708928c86c03d7e8f1436b8d7c8dbef65ee00c905a79b73aedfa1fbb05"
 metafile = true
 
 [[files]]
