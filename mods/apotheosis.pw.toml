@@ -1,13 +1,13 @@
 name = "Apotheosis"
-filename = "Apotheosis-1.21.1-8.5.2.jar"
+filename = "Apotheosis-1.21.1-8.5.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eb484177b383dc397bfa37d06ef09ec39053bb50"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rqFWfVlz/versions/Vp2TR6ib/Apotheosis-1.21.1-8.5.4.jar"
+hash-format = "sha512"
+hash = "338933d96a451205fdce94eb1443c6f88c55cd5c8bcd45bfd23948a7c39bd11f1fb103ceec75e344d8f1fed92bf26df13e7ba04cffee7ba805cbfe5f081f2245"
 
 [update]
-[update.curseforge]
-file-id = 7703848
-project-id = 313970
+[update.modrinth]
+mod-id = "rqFWfVlz"
+version = "Vp2TR6ib"

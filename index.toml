@@ -123,22 +123,22 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "89213937ee347c19bde57055ab13a93e9dd84978363c95810e34dbf44d44e1bc"
+hash = "fee5ee9d360181e358b02459530b30e8148d7193a6064ec31dbcfcc447ca59ce"
 metafile = true
 
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
-hash = "014ee07aad95d234a4be89ab018d7cc72b9b41999bf0d5f45de11b509a10bd5e"
+hash = "2a9d96fe08eef2570e703eace50ec5d5d35323bf6d480404c0fc490d7a75e3b4"
 metafile = true
 
 [[files]]
 file = "mods/apothic-enchanting.pw.toml"
-hash = "96354bc8654702df8ccc9ce6d91479e2e8fd4a3b60f5eb001ab761608de5c22d"
+hash = "c3d636a31314ef7faef5822f9f7d90f2026a319626415b51b6af78b9ecec24f1"
 metafile = true
 
 [[files]]
 file = "mods/apothic-spawners.pw.toml"
-hash = "73c6535aa33ece6287b6434c21edc5c16635003442e95c57b410b3acb4957a95"
+hash = "81ab12ddbd603d88eb7b5c3b8e257d551b3612bcffe82a21439f8fe8a887fbd7"
 metafile = true
 
 [[files]]
@@ -1233,7 +1233,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+hash = "2ccda92b6f9f4dae045fe05e57d3a1a4965b81e983006f17d75e83b464c240c9"
 metafile = true
 
 [[files]]

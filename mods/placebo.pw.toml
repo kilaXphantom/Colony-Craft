@@ -3,11 +3,11 @@ filename = "Placebo-1.21.1-9.9.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1c2b8c38066d6f36209c5dadee25c184ef65202e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/tCkE8p2N/versions/nU7CXkMr/Placebo-1.21.1-9.9.1.jar"
+hash-format = "sha512"
+hash = "ba98da321bff664da3ada53ff573a29a55aa11dc5eb50f0ccfe829a076b3ff1771bf27f3a1408646ffd3af7a5f493295ac200860f65736ab357b0f1e5200912b"
 
 [update]
-[update.curseforge]
-file-id = 6926281
-project-id = 283644
+[update.modrinth]
+mod-id = "tCkE8p2N"
+version = "nU7CXkMr"
