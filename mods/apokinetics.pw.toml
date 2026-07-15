@@ -1,0 +1,13 @@
+name = "Create: Apokinetics"
+filename = "apokinetics-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ad8dba002b918135009bdba044d4a079a05a6de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8429066
+project-id = 1606442

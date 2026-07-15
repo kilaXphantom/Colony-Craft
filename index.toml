@@ -117,6 +117,11 @@ hash = "590d5f387a908b28e8ded398ab91e141f1f4452880a9f13ac8db7221f8ade3ea"
 metafile = true
 
 [[files]]
+file = "mods/apokinetics.pw.toml"
+hash = "fe26e77af0279dda7abae534f1ad62eb204e063314df57b43cb325596e1e8cbe"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "89213937ee347c19bde57055ab13a93e9dd84978363c95810e34dbf44d44e1bc"
 metafile = true
