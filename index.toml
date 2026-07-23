@@ -1272,6 +1272,11 @@ hash = "4f7be9a7927b8f9ce25bb36f549c5981e656c8c072e956ca9bfa8c3b26a95e85"
 metafile = true
 
 [[files]]
+file = "mods/ragdoll-reactions.pw.toml"
+hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
+metafile = true
+
+[[files]]
 file = "mods/reactive-music.pw.toml"
 hash = "37b767d8d29b1a8cc7e39cc4ad9825e5d81e6b348ea9e917b539704cf29e6405"
 metafile = true
@@ -1314,6 +1319,11 @@ metafile = true
 [[files]]
 file = "mods/rpl.pw.toml"
 hash = "203ae720c7260429b5c55c6d024c8f9c100327248a3a6804d22f8af0b420ecba"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdolls.pw.toml"
+hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
 metafile = true
 
 [[files]]
