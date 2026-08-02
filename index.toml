@@ -147,6 +147,16 @@ hash = "b431ad040b7ec6920988e6290aa1ec3dd4ce50d70b7419afa011eea20d50fee7"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture-delight.pw.toml"
+hash = "aa3a2b60567657cf093c5ec9d384df99c8ba94f7907305c18d8f50c784957a90"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
@@ -189,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "53ee740402d386ffcbf664088908e4f8bea2d6854baa57aed57e9e1824992fc9"
+metafile = true
+
+[[files]]
+file = "mods/better-fishing-system.pw.toml"
+hash = "110bcf057385b181141826c3231210d31dd95aa6df56c92ecdc5601f1bd5faf6"
 metafile = true
 
 [[files]]
@@ -782,6 +797,11 @@ hash = "d068dda312f1f6e8519761080f3118d248870e9199d3e59f8adfb25e738f1d29"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-fishing-line.pw.toml"
+hash = "d74f3e291e50b5bb8dab7099667faae33072bd97b3eb84b4f3ff42011baf5932"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "3ff9642156890f6cb80adab6aa07fc4c5f0215e735ec9e57d9d709e5b832b406"
 metafile = true
@@ -1267,6 +1287,11 @@ hash = "09f0f2cf22fcb9fe47cda990fee568d9e3d44c3c4c50b076e980ca93c9138e5c"
 metafile = true
 
 [[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "53981ef920b10c51bae6dc5360478e1d83782c154c2182121545619d157d609d"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "269737b51503bef4285f41e7e84d6ebca07d45d0b83f8d9c231ac2184997634c"
 metafile = true
@@ -1359,6 +1384,16 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "204b91d29a270cda31a5379bc146b7fceee9f804f5ca3253c62c9f165144ff36"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "1d37ac39109aa15d03a3a7ddf6402d63f72277acafca53f61830046acfe6edb0"
+metafile = true
+
+[[files]]
+file = "mods/simply-tooltips.pw.toml"
+hash = "320d755339086e8fb35709328ad7b094ecbf7c500d61c08c535ec7d277fe1053"
 metafile = true
 
 [[files]]
@@ -1624,4 +1659,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/icon-xaeros.pw.toml"
 hash = "0fb23766919c354cfb5c5348329e7bac823dfd58d1a9660fcbfc0ab1506dc233"
+metafile = true
+
+[[files]]
+file = "resourcepacks/punchy!-compatibility.pw.toml"
+hash = "360b5ed02d5f7d12eb6133917e71e65bb3e266df80b6eabc4ca34d12b2083098"
 metafile = true

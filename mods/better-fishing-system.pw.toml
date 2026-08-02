@@ -1,0 +1,13 @@
+name = "Better Fishing"
+filename = "better_fishing-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xn1YuVMr/versions/PwXKcfxd/better_fishing-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "22d4bd6dcc84e9110566facf60db6926398cd4cf035460ba8e0165ca36b59acb7c98d5700e37dbc902e023fbcba33d17b5a9fda63fb23736b86b0007ec28db63"
+
+[update]
+[update.modrinth]
+mod-id = "Xn1YuVMr"
+version = "PwXKcfxd"
