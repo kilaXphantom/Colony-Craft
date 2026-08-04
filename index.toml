@@ -45,6 +45,10 @@ file = "config/entityculling.json"
 hash = "bac5d910f34d02d1e88069472f4f4da6c6b9af604d2ebba82698af5829068be5"
 
 [[files]]
+file = "config/fwa-blacklist.json"
+hash = "394ac338c9260792912dad1fae59a16f17fc110eea1433e9121b60926f36a031"
+
+[[files]]
 file = "config/moreculling.toml"
 hash = "80ffc87b25edc74d085dbf0752b516c242b40a7ebe5454180101fede364324cc"
 
