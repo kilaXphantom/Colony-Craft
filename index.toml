@@ -924,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "bca8d7ebee7f4095526a6dc009da83f3f6697e7ec6bf550410432f1f6eac47e7"
+hash = "8f3952b3003073a4ec09656ce8f71faec58213a6d08b1752550805b4226ba779"
 metafile = true
 
 [[files]]
