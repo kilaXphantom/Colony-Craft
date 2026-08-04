@@ -53,6 +53,22 @@ file = "config/name_generation.cfg"
 hash = "a7e5a3857bfcf6c3afdac504ed0c70adfc52b8ff88b6a398db4d4cb85caa446a"
 
 [[files]]
+file = "config/punchy/config_profiles/Default.json"
+hash = "d01d5e187f75b08f34d5390228c429e86624a4320bab8281906e7c5f46ddb355"
+
+[[files]]
+file = "config/punchy/config_profiles/active_profile.txt"
+hash = "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d"
+
+[[files]]
+file = "config/punchy/merged_animation_selection.json"
+hash = "77d9559a19f69d73f952177d2047760a9e55be219fee015658effaaa8783eb46"
+
+[[files]]
+file = "config/punchy/punchy_config.json"
+hash = "9deb111f08ab62203194123a7878ec12f1d6e6da56cba1e0668ba582954a0316"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "c726cbb11485743f7d2fe0b49a5c0166f3b95a6159068de1f655c7b11a740d2b"
 
