@@ -1372,11 +1372,6 @@ hash = "203ae720c7260429b5c55c6d024c8f9c100327248a3a6804d22f8af0b420ecba"
 metafile = true
 
 [[files]]
-file = "mods/sable-ragdolls.pw.toml"
-hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
-metafile = true
-
-[[files]]
 file = "mods/sable.pw.toml"
 hash = "2b4fb5e3d16d30b59be78c4efc3dd7b7c3066e6486ef0c99fb32af510ffc308a"
 metafile = true
